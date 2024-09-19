@@ -1,0 +1,4 @@
+repository "TI 2 PERIODO - RUNNER@jvitorlg26@cloud"
+  path "/"
+    br "/main"
+    co "/main"

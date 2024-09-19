@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7bbf67cef484ef248a10d24ccced6399
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - streetPrefab: {fileID: 8941577558113401976, guid: f9ce545e63ee27345a9f1d599163bb69, type: 3}
+  - wallPrefab: {instanceID: 0}
+  - downWallPrefab: {fileID: 500145454542483937, guid: 73fd9d0ef9e8d9042bea7fa11759bff6, type: 3}
+  - upWallPrefab: {fileID: 500145454542483937, guid: 511a790f4e96cf24aa7e988a717d64f6, type: 3}
+  - bigWallPrefab: {fileID: 500145454542483937, guid: 1101eeb9cb8890542a90e9efe10df08a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
